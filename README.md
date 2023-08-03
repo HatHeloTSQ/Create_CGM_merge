@@ -13,5 +13,6 @@ Installation:
 1. Install the mods above
 2. Launch the game
 3. Exit the game
-4. Navigate into .minecraft folder (or server folder) or on CurseForge right click on installation and click open folder
-5. Extract folder there
+4. Extract folder
+5. Navigate into .minecraft folder (or server folder) or on CurseForge right click on installation and click open folder
+6. Move extracted kubejs folder where you see the kubejs folder in the installation or .minecraft folder
