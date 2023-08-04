@@ -48,3 +48,72 @@ StartupEvents.registry('item', event => {
     }
 )
 
+StartupEvents.registry('item', event => {
+    event.create('unfinished_light_stock').texture('unfinished_light_stock').modelJson('unfinished_light_stock.json')
+    }
+)
+
+StartupEvents.registry('item', event => {
+    event.create('unfinished_weighted_stock').texture('unfinished_weighted_stock').modelJson('unfinished_weighted_stock.json')
+    }
+)
+
+StartupEvents.registry('item', event => {
+    event.create('unfinished_tactical_stock').texture('unfinished_tactical_stock').modelJson('unfinished_weighted_tactical.json')
+    }
+)
+
+StartupEvents.registry('item', event => {
+    event.create('unfinished_light_grip').texture('unfinished_light_grip').modelJson('unfinished_light_grip.json')
+    }
+)
+
+StartupEvents.registry('item', event => {
+    event.create('unfinished_specialised_grip').texture('unfinished_specialised_grip').modelJson('unfinished_specialised_grip.json')
+    }
+)
+
+StartupEvents.registry('item', event => {
+    event.create('unfinished_standard_pistol').texture('unfinished_standard_pistol').modelJson('unfinished_standard_pistol.json')
+    }
+)
+
+StartupEvents.registry('item', event => {
+    event.create('unfinished_standard_shotgun').texture('unfinished_standard_shotgun').modelJson('unfinished_standard_shotgun.json')
+    }
+)
+
+StartupEvents.registry('item', event => {
+    event.create('unfinished_standard_machine_pistol').texture('unfinished_standard_machine_pistol').modelJson('unfinished_standard_machine_pistol.json')
+    }
+)
+
+StartupEvents.registry('item', event => {
+    event.create('unfinished_standard_rifle').texture('unfinished_standard_rifle').modelJson('unfinished_standard_rifle.json')
+    }
+)
+
+StartupEvents.registry('item', event => {
+    event.create('unfinished_standard_assault_rifle').texture('unfinished_standard_assault_rifle').modelJson('unfinished_standard_assault_rifle.json')
+    }
+)
+
+StartupEvents.registry('item', event => {
+    event.create('unfinished_marksman_rifle').texture('unfinished_marksman_rifle').modelJson('unfinished_marksman_rifle.json')
+    }
+)
+
+StartupEvents.registry('item', event => {
+    event.create('unfinished_bazooka').texture('unfinished_bazooka').modelJson('unfinished_bazooka.json')
+    }
+)
+
+StartupEvents.registry('item', event => {
+    event.create('unfinished_grenade_launcher').texture('unfinished_grenade_launcher').modelJson('unfinished_grenade_launcher.json')
+    }
+)
+
+StartupEvents.registry('item', event => {
+    event.create('unfinished_minigun').texture('unfinished_minigun').modelJson('unfinished_minigun.json')
+    }
+)
