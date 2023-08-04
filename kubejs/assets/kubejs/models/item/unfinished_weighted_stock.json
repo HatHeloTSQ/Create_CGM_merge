@@ -59,9 +59,30 @@
 			"rotation": [55, -148, -20],
 			"translation": [-2.75, 1.5, 4]
 		},
+		"thirdperson_lefthand": {
+			"rotation": [55, -148, -20],
+			"translation": [-2.75, 1.5, 4]
+		},
+		"firstperson_righthand": {
+			"rotation": [-25, 180, 0],
+			"translation": [0, 7.5, 0]
+		},
 		"firstperson_lefthand": {
-			"rotation": [0, 180, -17],
-			"translation": [-2, 6.25, 1]
+			"rotation": [-25, 180, 0],
+			"translation": [0, 7.5, 0]
+		},
+		"ground": {
+			"rotation": [0, 0, 90],
+			"translation": [0, -2.75, 0]
+		},
+		"gui": {
+			"rotation": [28, 58, 0],
+			"translation": [-1.75, 7, 0],
+			"scale": [1.5, 1.5, 1.5]
+		},
+		"fixed": {
+			"rotation": [0, 90, 0],
+			"translation": [-1.5, 5.75, 0]
 		}
 	},
 	"groups": [

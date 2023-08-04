@@ -132,13 +132,30 @@
 			"rotation": [-165, 0, 180],
 			"translation": [-0.5, 5.25, 2.5]
 		},
+		"thirdperson_lefthand": {
+			"rotation": [-165, 0, 180],
+			"translation": [0.5, 5.25, 2.5]
+		},
 		"firstperson_righthand": {
 			"rotation": [144, 13, 180],
 			"translation": [-2, 9, 2.75]
 		},
 		"firstperson_lefthand": {
-			"rotation": [-38, 180, -5],
-			"translation": [-2.5, 7.25, 0.25]
+			"rotation": [144, 13, 180],
+			"translation": [-2, 9, 2.75]
+		},
+		"ground": {
+			"rotation": [0, 0, 90],
+			"translation": [0, -2, 0]
+		},
+		"gui": {
+			"rotation": [21, 44, 0],
+			"translation": [-1, 5.75, 0],
+			"scale": [1.2, 1.2, 1.2]
+		},
+		"fixed": {
+			"rotation": [0, 90, 0],
+			"translation": [-2.5, 6, -0.75]
 		}
 	},
 	"groups": [

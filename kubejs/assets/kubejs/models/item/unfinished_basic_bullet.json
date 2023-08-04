@@ -3,7 +3,7 @@
 	"textures": {
 		"0": "kubejs:item/unfinished_basic_bullet",
 		"particle": "kubejs:item/unfinished_basic_bullet"
-	  },
+	},
 	"elements": [
 		{
 			"from": [7, 8, 1],
@@ -84,6 +84,40 @@
 			}
 		}
 	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [-20, 0, 0],
+			"translation": [-0.75, 0.5, 1],
+			"scale": [0.2, 0.2, 0.2]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [-20, 0, 0],
+			"translation": [-0.75, 0.5, 1],
+			"scale": [0.2, 0.2, 0.2]
+		},
+		"firstperson_righthand": {
+			"rotation": [-40, 0, 0],
+			"scale": [0.2, 0.2, 0.2]
+		},
+		"firstperson_lefthand": {
+			"rotation": [-40, 0, 0],
+			"scale": [0.2, 0.2, 0.2]
+		},
+		"ground": {
+			"rotation": [-22.5, 0, 0],
+			"translation": [0, -3, 0],
+			"scale": [0.3, 0.3, 0.3]
+		},
+		"gui": {
+			"rotation": [-3, 28, 0],
+			"translation": [1, 0, 0]
+		},
+		"fixed": {
+			"rotation": [-22.5, 0, 0],
+			"translation": [0, 0, 0.75],
+			"scale": [0.2, 0.2, 0.2]
+		}
+	},
 	"groups": [
 		{
 			"name": "group",
